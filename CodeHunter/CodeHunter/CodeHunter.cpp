@@ -1,3 +1,5 @@
+//Elijah Nutter, This assignment is about debugging and finding errors. I found 2 errors, line 38 abd line 44. I explain what I did in the lines above.
+
 #include <iostream>
 #include <string>
 
